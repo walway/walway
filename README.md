@@ -1,4 +1,4 @@
-<iframe src="https://walway.github.io/index.html?effect=clockwork"></iframe>
+<iframe src="https://walway.github.io"></iframe>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning JS, CSS, Vite, React
