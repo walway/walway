@@ -1,10 +1,1 @@
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning JS, CSS, Vite, React
-- 👯 I’m looking to collaborate on anything if you need help
-- 🤔 I’m looking for help with currently nothing
-- 💬 Ask me about anything 
-- 📫 How to reach me: will be added soon
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I started programming when i was 7 y.o by unpacking games and editing them
